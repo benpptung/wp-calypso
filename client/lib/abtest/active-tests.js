@@ -153,7 +153,7 @@ export default {
 		localeTargets: 'any',
 	},
 	passwordlessSignup: {
-		datestamp: '20190927',
+		datestamp: '20191014',
 		variations: {
 			passwordless: 0,
 			default: 100,
